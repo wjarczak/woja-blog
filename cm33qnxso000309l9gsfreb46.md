@@ -10,7 +10,7 @@ tags: git, devops, cheatsheet
 
 ---
 
-This cheat sheet summarizes my commonly used git commands, I will update that periodically.
+This cheat sheet summarizes my most commonly used git commands, and I will update it periodically.
 
 ### Initialize
 
@@ -19,7 +19,7 @@ git config --global user.name "Name Username"
 git config --global user.email name@example.com
 ```
 
-I rarely initialize repo locally, so there is no need for me to use `git init` but keep in mind that it’s useful for `initializing an existing directory as a Git repository`
+I rarely initialize a repo locally, so I don't need to use `git init`. However, keep in mind that it's useful for `initializing an existing directory as a Git repository`.
 
 ### Basic commands
 
