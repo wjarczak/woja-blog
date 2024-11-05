@@ -12,7 +12,7 @@ tags: kubernetes, devops, cheatsheet
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Most commands used here are also usable in Open</div>
+<div data-node-type="callout-text">Most commands used here are also usable in OpenShift</div>
 </div>
 
 This cheat sheet summarizes my most commonly used Kubernetes commands, and I will update it periodically.
