@@ -4,7 +4,7 @@ seoTitle: "Install k3s on Ubuntu 24.04 LTS"
 seoDescription: "Learn how to install K3s on Ubuntu 24.04 LTS for efficient single-node Kubernetes deployments"
 datePublished: Mon Nov 25 2024 23:25:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm3xnoxwu000c09jo42l96nan
-slug: k3s-on-ubuntu-2404-lts
+slug: k3s-on-ubuntu
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/y8TMoCzw87E/upload/2aa2f60fc7e7007b7a5214f8430a6e17.jpeg
 tags: nginx, kubernetes, k3s, rancher, load-balancing
 
